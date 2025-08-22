@@ -4,7 +4,7 @@ ilevia EVE X1 Server /bh_web_backend.The presence of DOM-based XSS combined with
 ## Affected Repository
 - Project: Ilevia EVE X1 Server 
 - Affect versions: Firmware Version<= 4.7.18.0.eden;Logic Version<=6.00 - 2025_07_21
-- File: /ajax/php/ping.php
+- File: /ajax/php/bh_web_backend.php
 - homePage: https://www.ilevia.com/
 - Dependency: Ilevia EVE X1 Server ( Firmware Version<= 4.7.18.0.eden;Logic Version<=6.00 - 2025_07_21)
 

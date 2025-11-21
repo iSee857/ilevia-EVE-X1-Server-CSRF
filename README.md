@@ -1,4 +1,4 @@
-# ilevia-EVE-X1-Server-CSRF
+# CVE-2025-60739 ilevia-EVE-X1-Server-CSRF
 ilevia EVE X1 Server /bh_web_backend.The presence of DOM-based XSS combined with CSRF can access internal system data and execute JavaScript code.
 
 ## Affected Repository
